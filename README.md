@@ -61,3 +61,13 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <p align = "center"> Hope you enjoyed going through my profile 😌<br>
 How about following me 🥺</p>
+
+         &nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/user/22vd5ec6k4te1ga5llq4thtuy))
+</div>
+
+&nbsp;<div align="center">
+  This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/andrew-novac](https://www.linkedin.com/in/kanishkbehl/))
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](behlkanishk@gmail.com)
+</div>
