@@ -5,13 +5,13 @@
 <br>
 
 ## About me 😎
-
-- 🏊 Currently deep diving in **HTML CSS JS**
-- 🌱 I just started **LeetCode** and **DSA**
-- 🏃 I love to participate in **hackathons**
-- 😁 I am part time **student** and full time **memer**
-- 🛌 I am a wanna be **Full Stack Web3 Developer**
-- 💌 Mail me at **agoyal3_be21@thapar.edu** to contact me.
+- 🔭 I am a beginner web developer with a passion for learning new technologies and coding languages.
+- 🌱 I am currently focusing on mastering JavaScript, CSS, and HTML for building dynamic and responsive websites.
+- 💬 AI am always eager to learn new skills and take on challenging projects to improve my abilities.
+- 😄 My ultimate goal is to become a full-stack developer and work on creating innovative web applications.
+-  ⚡ I am active on GitHub and constantly updating my portfolio with new projects and experiments.
+- ✍️ I am a creative and skilled graphic designer work on Photoshop and Procreate and a strong eye for aesthetics.
+- 💌 Mail me at **behlkanishk@gmail.com** to contact me.
 
 ## Skill Set :muscle:
 
