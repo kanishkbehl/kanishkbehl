@@ -20,5 +20,4 @@ These are some of the major technologies that I use or have worked on in the pas
 **Programming Languages**
 
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="Cpp" title="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="HTML" title="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="JS" title="JavaScript" width="40px">
-|--|--|--|--|--|--|--|--|
 
