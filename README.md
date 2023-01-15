@@ -1,6 +1,6 @@
 <h1 align= "center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br> KANISHK BEHL HERE</h1>
 
-<h3 align="center">I don't want what I wish, I want what I work for 😶‍🌫️</h3>
+<h3 align="center">Empowering the future, one line of code at a time. 🤩</h3>
 
 <br>
 
