@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/kanishk.behl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/kanishk.behl" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkbehl&show_icons=true&locale=en&layout=compact" alt="kanishkbehl" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkbehl&show_icons=true&locale=en&layout=compact" alt="kanishkbehl" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkbehl&show_icons=true&locale=en" alt="kanishkbehl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkbehl&" alt="kanishkbehl" /></p>
